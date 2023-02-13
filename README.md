@@ -1,10 +1,3 @@
----
-title: "Investigating United States Fire Risk"
-author: "Michael Hymowitz, Zhenning Zhang, Yiwei Mai, Matt Schneider"
-date: "Fall 2022"
----
-
-
 
 # Introduction
 
